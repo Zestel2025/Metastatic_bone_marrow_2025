@@ -1,4 +1,4 @@
-<img width="432" height="41" alt="image" src="https://github.com/user-attachments/assets/452b0045-5d05-43ee-9cab-21dcd473c5f4" /># Metastatic_bone_marrow_2025
+# Metastatic_bone_marrow_2025
 
 This repository contains the code and computational resources associated with the study:
 
