@@ -6,8 +6,6 @@ This repository contains the code and computational resources associated with th
 
 The uploaded materials include scripts for data analysis and marker genes used for cell-type annotation.
 
-For any questions or further assistance, please feel free to contact us at:
-
-**xuwei_spine@163.com**
+For any questions or further assistance, please contact us through the anonymous email address provided during peer review. The corresponding author’s email address will be provided after the manuscript is published online.
 
 We will be happy to provide additional support.
